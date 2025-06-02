@@ -1,6 +1,4 @@
 %Alexander Fernandez Callapa
-%Ronald Churiri Sabaya
-%Freds Cazorla Juyari
 enfermedad(gripe).
 
 sintoma(gripe, fiebre).
